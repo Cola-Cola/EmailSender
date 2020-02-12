@@ -1,0 +1,54 @@
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\obj\Debug\EmailSender.csprojAssemblyReference.cache
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\obj\Debug\EmailSender.AdressListForm.resources
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\obj\Debug\EmailSender.Main.resources
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\obj\Debug\EmailSender.Properties.Resources.resources
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.GenerateResource.cache
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
+D:\Google Drive\edu\II курс\Весна\Практика\test1\EmailSender\EmailSender\obj\Debug\EmailSender.Choice.resources
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.csprojAssemblyReference.cache
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.AdressListForm.resources
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.Choice.resources
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.Main.resources
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.Properties.Resources.resources
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.GenerateResource.cache
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.Errors.resources
+D:\Google Drive\edu\II курс\Весна\Практика\EmailSender\EmailSender\obj\Debug\EmailSender.ScanExcl.resources
+C:\Users\Colba\Desktop\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Colba\Desktop\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Colba\Desktop\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.csprojAssemblyReference.cache
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.AdressListForm.resources
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.Choice.resources
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.Errors.resources
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.Main.resources
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.ScanExcl.resources
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.GenerateResource.cache
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+C:\Users\Colba\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
+D:\Google Drive\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+D:\Google Drive\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+D:\Google Drive\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.csprojAssemblyReference.cache
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.AdressListForm.resources
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.Choice.resources
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.Errors.resources
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.Main.resources
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.Properties.Resources.resources
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.ScanExcl.resources
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.GenerateResource.cache
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+D:\Google Drive\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
